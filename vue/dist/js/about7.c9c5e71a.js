@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about7"],{a2f9:function(n,t,e){"use strict";e.r(t);var s=function(){var n=this;n._self._c;return n._m(0)},u=[function(){var n=this,t=n._self._c;return t("div",[t("h1",[n._v("新闻")])])}],a={name:"News"},r=a,c=e("2877"),i=Object(c["a"])(r,s,u,!1,null,"b723d980",null);t["default"]=i.exports}}]);
+//# sourceMappingURL=about7.c9c5e71a.js.map
